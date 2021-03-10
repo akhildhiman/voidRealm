@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Blog Starter`,
+    title: `voidRealm`,
     description: `A Blog starter`,
-    author: `Boy with Silver Wings`,
-    authorTagline: 'Engineer. Driven by Passion',
+    author: `A regular guy from the Himalayas`,
+    authorTagline: 'Just my thoughts',
     social: {
-      twitter: `agneymenon`,
+      twitter: `_himalayan_`,
     },
   },
   plugins: [
@@ -67,7 +67,7 @@ module.exports = {
         background_color: `#663399`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
+        icon: `src/images/icon.png`, // This path is relative to the root of the site.
       },
     },
     'gatsby-plugin-offline',
